@@ -3,7 +3,7 @@
 🎓 **Freshman in Computer Science** | 💻 **Tech Enthusiast**  
 I aspire to leverage my skills in programming and develop an analytical way of thinking.
 
-<!--nothing seems to be an error here-->
+<!--I'm skipping heading levels rule here, just for aesthetics-->
 ### 🛠️ languages I have learned
 
 - Python
