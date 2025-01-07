@@ -1,4 +1,4 @@
-# Hey, I'm Ayham 😸 (He/Him)
+## Hey, I'm Ayham 😸 (He/Him)
 
 I’m a beginner who has just started venturing into the fascinating realm of computer science.  
 I’ve begun my journey with the C language and am currently learning Python,  
