@@ -4,7 +4,7 @@ Hey, I'm Ayham :D A beginner who has just started venturing into the fascinating
 I’ve begun my journey with the C language and am currently learning Python,  
 exploring its impressive versatility.
 
-## Hobbies
+## Hobbies & Interests
 When I'm not coding, you'll find me immersed in creative writing and poetry, enjoying the rhythm and depth of language. I also have a strong love for mathematics, and collaborating on programming projects is something I truly enjoy as it lets me learn with and from others.  
 
 ![bmo-bounce](https://github.com/user-attachments/assets/c8fe7880-20b6-4c9e-99ae-aa26fb8e1351)   
