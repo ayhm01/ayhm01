@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, I'm Ayham :D A beginner who has just started venturing into the fascinating realm of computer science.  
+Hey, I'm Ayham :D I just started venturing into the fascinating realm of computer science.  
 I’ve begun my journey with the C language and am currently learning Python,  
 exploring its impressive versatility.
 
