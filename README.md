@@ -1,7 +1,7 @@
 ## About Me
 
 I just started venturing into the fascinating realm of computer science.  
-I’ve begun my journey with the C language - currently learning Data science and ML using Python.
+I’ve begun my journey with the C language - currently learning Data science and ML with Python.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ## Hobbies & Interests
 
